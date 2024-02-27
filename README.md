@@ -1,5 +1,5 @@
 # Discord Bots
-Intsall All Of These In The Terminal:
+Intsall All Of These In The Terminal (VSCode):
 1. npm init -y
 2. npm i discord.js
 3. npm i dotenv
